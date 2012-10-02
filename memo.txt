@@ -1,0 +1,10 @@
+$ wc -l missing_screen_names.txt
+1997870 missing_screen_names.txt
+
+# countValidTweets
+tweet0: 35698474/44819090
+tweet1: 11899982/14938366
+tweet2: 35696947/44812109
+tweet3: 11902002/14941720
+tweet4: 35713352/44831462
+tweet5: 11903201/14943550
